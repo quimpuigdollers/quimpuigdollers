@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kimpuvi99 and I live in Barcelona
-- I'm an SAP functional consultant.
+- 💼 I'm an SAP functional consultant.
 - 🌱 I’m currently improving my coding skills
 - 👀 I’m interested in collaborating in flutter open source projects
 - 📫 How to reach me quimpuigdollers@gmail.com
