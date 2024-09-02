@@ -3,7 +3,7 @@
 - 🌱 I’m currently improving my coding skills
 - 👀 I’m interested in collaborating in flutter open source projects
 - 📫 How to reach me quimpuigdollers@gmail.com
-- ⚡ TechStack: Flutter
+- ⚡ TechStack: SAC, Power BI and Flutter
 
 <!---
 kimpuvi99/kimpuvi99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
